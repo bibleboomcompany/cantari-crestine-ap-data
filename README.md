@@ -1,2 +1,2 @@
 # cantari-crestine-ap-data
-data set cu cantari crestine catalogate
+dataset cu cantari crestine catalogate
